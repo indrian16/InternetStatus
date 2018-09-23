@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Internet Status</string>
+    <string name="type_network_label">Type Network</string>
+    <string name="value_default">VALUE</string>
+    <string name="state_label">State</string>
+    <string name="internet_status_value">You are Offline</string>
+</resources>
